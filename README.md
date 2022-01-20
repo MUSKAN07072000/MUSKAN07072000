@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MUSKAN07072000
-- 👀 I’m loves listening songs for hours
+- 👀 I loves listening songs for hours
 - 🌱 I’m currently learning Webdevelopment using django
 - 📫 How to reach me ...muskan07072000verma@gmail.com
 
