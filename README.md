@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MUSKAN07072000
 - 👀 I loves listening songs for hours
-- 🌱 I’m specialized in Django, .NET, GraphQL, NodeJS, SQL, PostGres, MongoDB, C#, C++, Python, Javascript and learning much more.
+- 🌱 I’m specialized in Django, .NET Console, .NET Web API, GraphQL, NodeJS, SQL, PostGres, MongoDB, C#, C++, Python, Javascript, Postman, Swagger and learning much more.
 - 📫 How to reach me ...muskan07072000verma@gmail.com
 
 <!---
